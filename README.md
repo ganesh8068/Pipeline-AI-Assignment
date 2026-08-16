@@ -2,6 +2,8 @@
 
 A modern, responsive, and visually stunning Pokémon Explorer application built using React, TypeScript, and PokéAPI. It features a premium custom-styled glassmorphism UI, theme modes, advanced filtering/searching, a live Pokémon comparison engine, and a persistence system for favorites.
 
+**Live Demo:** [https://pipeline-ai-assignment.onrender.com](https://pipeline-ai-assignment.onrender.com)
+
 ## Features
 
 - **Dynamic Card Grid:** Sleek, glassmorphic Pokémon cards displaying high-quality official artwork, IDs, names, and type badges. Card design adapts its glowing accent borders dynamically based on the primary type of the Pokémon.
